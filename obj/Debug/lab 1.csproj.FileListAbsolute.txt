@@ -1,0 +1,6 @@
+C:\Users\grick\source\repos\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\grick\source\repos\lab 1\bin\Debug\lab 1.exe
+C:\Users\grick\source\repos\lab 1\bin\Debug\lab 1.pdb
+C:\Users\grick\source\repos\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\grick\source\repos\lab 1\obj\Debug\lab 1.exe
+C:\Users\grick\source\repos\lab 1\obj\Debug\lab 1.pdb
